@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Projekt_Da_Ruf_Hauser" id="FFDBDA91-36F1-A5ED-E5A4-24E8B64478A3" version="3.5">
+<createdBy>paula</createdBy>
+<createdTime>2025-03-17 09:21:06 UTC</createdTime>
+<ownerDesignName>Projekt_Da_Ruf_Hauser</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FFDBDA91-36F1-A5ED-E5A4-24E8B64478A3</designId>
+</OSDM_Design>
